@@ -1,0 +1,45 @@
+/* Global Styles */
+body {
+  font-family: Georgia, serif;
+  padding: 0;
+}
+
+.container {
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Heading Styles */
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+/* Pollution Type Styles */
+.pollution-type {
+  margin-bottom: 40px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.pollution-type img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.pollution-description {
+  padding: 20px;
+}
+
+.pollution-description h2 {
+  color: #666;
+  margin-top: 0;
+}
+
+.pollution-description p {
+  color: #444;
+}
+

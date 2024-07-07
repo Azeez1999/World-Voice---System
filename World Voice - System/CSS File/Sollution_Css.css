@@ -1,0 +1,47 @@
+/* Global Styles */
+body {
+  font-family: Georgia, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Heading Styles */
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+h2 {
+  color: #666;
+}
+
+/* Solution Styles */
+.solution {
+  margin-bottom: 40px;
+}
+
+/* List Styles */
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+/* Link Styles */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
